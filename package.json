@@ -1,0 +1,43 @@
+{
+  "name": "eligendisapiente",
+  "version": "1.0.0",
+  "description": "validation library",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7"
+  },
+  "keywords": [
+    "ea",
+    "a",
+    "doloremque",
+    "validation",
+    "dolores",
+    "node-validator",
+    "koa-validation",
+    "koa-validator",
+    "nostrum",
+    "express-validator",
+    "koa validation",
+    "quo",
+    "sed",
+    "labore",
+    "form validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DestinyGoldner/eligendisapiente.git"
+  },
+  "author": "GuadalupeJohnston",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^6.1.0",
+    "mime-types": "^2.1.17",
+    "moment": "^2.18.1",
+    "read-chunk": "^2.1.0",
+    "validator": "^8.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3",
+    "should": "^13.0.1"
+  }
+}
